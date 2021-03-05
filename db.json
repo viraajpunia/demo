@@ -1,7 +1,7 @@
 [
   {
     "moveoutdate": "Jan 01, 2020",
-    "id": "42312",
+    "id": 42312,
     "address": "2623 Honeysuckle Rd. NW",
     "room": "3",
      "location": "Atlanta, GA",
@@ -11,7 +11,7 @@
   },
   {
     "moveoutdate": "Jan 12, 2020",
-    "id": "63451",
+    "id": 63451,
     "address": "9870 Colonial Ave.",
     "room": "2",
      "location": "Decatur, GA",
@@ -21,7 +21,7 @@
   },
   {
     "moveoutdate": "Jan 18, 2020",
-    "id": "12341",
+    "id": 12341,
     "address": "1822 Riverside Dr. SW",
     "room": "6",
      "location": "Atlanta, GA",
@@ -31,7 +31,7 @@
   },
   {
     "moveoutdate": "Jan 18, 2020",
-    "id": "73452",
+    "id": 73452,
     "address": "990 Garden St.",
     "room": "4",
      "location": "Decatur, GA",
